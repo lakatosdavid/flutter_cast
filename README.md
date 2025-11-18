@@ -1,3 +1,7 @@
+[![Pub Likes](https://img.shields.io/pub/likes/cast)](https://pub.dev/packages/cast)
+[![Pub Popularity](https://img.shields.io/pub/popularity/cast)](https://pub.dev/packages/cast)
+[![Pub Points](https://img.shields.io/pub/points/cast)](https://pub.dev/packages/cast)
+
 # cast
 
 Dart package to discover and connect with Chromecast devices
@@ -8,7 +12,7 @@ Add this to your package's pubspec.yaml file:
 
 ```
 dependencies:
-  cast: ^1.1.0
+  cast: ^2.1.0
 ```
 
 ### iOS
@@ -125,4 +129,4 @@ Some informations about the protocol used https://docs.rs/crate/gcast/0.1.5/sour
 
 ## Author
 
-- [Jonathan VUKOVICH-TRIBOUHARET](https://github.com/jonathantribouharet) 
+- [Jonathan VUKOVICH](https://github.com/johnvuko)

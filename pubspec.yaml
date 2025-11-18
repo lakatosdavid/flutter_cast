@@ -1,6 +1,6 @@
 name: cast
 description: Dart package to discover and connect with Chromecast devices
-version: 2.0.1
+version: 2.0.0
 homepage: https://github.com/jonathantribouharet/flutter_cast
 
 environment:
@@ -10,7 +10,7 @@ dependencies:
   bonsoir: ^5.1.1
   flutter:
     sdk: flutter
-  protobuf: ^5.0.0
+  protobuf: ^3.1.0
 
 dev_dependencies:
   pedantic: ^1.11.1
